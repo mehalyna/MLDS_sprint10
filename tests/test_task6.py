@@ -1,7 +1,7 @@
 import pytest
 import pandas as pd
 
-from src.task3_target_encoding import target_encode_smoothing
+from src.task6_target_encoding import target_encode_smoothing
 
 
 def test_target_encoded_column_exists():

@@ -1,7 +1,7 @@
 import pytest
 import pandas as pd
 
-from src.task2_one_hot_encoding import group_rare_categories, one_hot_encode
+from src.task5_one_hot_encoding import group_rare_categories, one_hot_encode
 
 
 def test_group_rare_categories():

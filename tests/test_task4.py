@@ -1,7 +1,7 @@
 import pytest
 import pandas as pd
 
-from src.task1_BMI_calc import calculate_bmi, categorize_bmi
+from src.task4_BMI_calc import calculate_bmi, categorize_bmi
 
 
 def test_bmi_calculation():
