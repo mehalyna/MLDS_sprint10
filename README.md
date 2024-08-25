@@ -1,4 +1,4 @@
-#Sprint 10. Data Preprocessing
+# Sprint 10. Data Preprocessing
 
 ## **Task 1: Removing Duplicates and Handling Missing Values**
 
